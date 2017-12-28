@@ -11,9 +11,19 @@ https://mega.nz/#F!SxAHXRTZ!rnbP8APGdCqponSbg5C-pQ
 
 **Core Functionality**
 + `preprocess.py` - Process the image dataset to the required format
-+ `imageagument.py` - Augumenting the image to get improve the accuracy
++ `imageagument.py` - Augumenting the image to improve the accuracy
 + `christmas.tfrecords` - Its a representation of image dataset in a well structured format 
 + `train.py` - Deploying and Training the model
+
+**STEPS TO RUN THE CODE*** 
+1.Use the prerocessed tfrecord or you have downloaded the images from the above link cloud preprocess it using preprocess.py,you will get the tfrecord file in your directory
+2.In the train.py ,contains the properties of the convolutional and the hyperparameter of it,you can change it according to your data otherwise leave it as default.
+3.Since I structured the convolutional model in a efficient manner no modification can be done.
+4.Give the directory path of the tfrecord file to the train.py and run it
+5.It produces the training accuracy of the images in the model as final output
+6.Create your own test data set realted to the trained model and check it.
+7.Deploy the model using tensor.saver where you need.
+8.Cool!Thats it you have developed a image classifier.
 
 # SAMPLE WORK #
 ## TRAINING IMAGES: ##
