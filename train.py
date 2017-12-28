@@ -5,8 +5,6 @@ import sys
 import os
 import tensorflow.contrib.slim.nets as nets
 
-
-
 def inputs(dataset,img_size,batch_size):
   feature={'image':tf.FixedLenFeature([],tf.string),'label':tf.FixedLenFeature([],tf.int64)}
   # Create a list of filenames and pass it to a queue
@@ -27,8 +25,6 @@ def inputs(dataset,img_size,batch_size):
   # Creates batches by randomly shuffling tensors
   images, labels = tf.train.shuffle_batch([image, label], batch_size=5, capacity=600, num_threads=10, min_after_dequeue=1)
   return images,labels
-
-
 
 
 
@@ -165,21 +161,13 @@ def run_training(start_time):
 
                  
     
-
-
-
-
-
 def main(_):
   start_time=time.time()
   run_training(start_time)
 
 
-
-
-
 if __name__ == '__main__':
-    datapath='/home/robinreni/Documents/pythonprojects/cnn/christams/christmas1_temp.tfrecords'
+    datapath='/home/robinreni/Documents/pythonprojects/cnn/christams/christmas.tfrecords'
 
     parser = argparse.ArgumentParser()
     parser.add_argument('--learning_rate', type=float, default=0.001, help='Initial learning rate')
