@@ -11,7 +11,7 @@ https://mega.nz/#F!SxAHXRTZ!rnbP8APGdCqponSbg5C-pQ
 
 **Core Functionality**
 + `preprocess.py` - Process the image dataset to the required format
-+ `imageagument.py` - Agumenting the image to get improve the accuracy
++ `imageagument.py` - Augumenting the image to get improve the accuracy
 + `christmas.tfrecords` - Its a representation of image dataset in a well structured format 
 + `train.py` - Deploying and Training the model
 
