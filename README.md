@@ -17,8 +17,7 @@ https://mega.nz/#F!SxAHXRTZ!rnbP8APGdCqponSbg5C-pQ
 
 # SAMPLE WORK #
 ## TRAINING IMAGES: ##
-
-https://www.pexels.com/photo/food-plate-chocolate-dessert-132694/
+![alt text](https://www.cakengifts.in/product-images/bfcr001-black-forest-cake-in-round/regular/black-forest-cake-in-round.jpg)
 
 
 
