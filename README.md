@@ -25,8 +25,8 @@ https://mega.nz/#F!SxAHXRTZ!rnbP8APGdCqponSbg5C-pQ
 ## TEST AND OUTPUT ##
 ![alt text](https://www.lds.org/bc/content/ldsorg/content/images/2011mtc-christmas-480x270-CWD_100705_KMIller_TempleSquareLights_04_038.jpg)
 
-## OUTPUT : CHRISTMAS IMAGE ##
+**OUTPUT : CHRISTMAS IMAGE**
 
-## ACCURACY OF THE MODEL: 72.2% ## 
+**ACCURACY OF THE MODEL: 72.2%** 
 
 
