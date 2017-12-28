@@ -18,6 +18,15 @@ https://mega.nz/#F!SxAHXRTZ!rnbP8APGdCqponSbg5C-pQ
 # SAMPLE WORK #
 ## TRAINING IMAGES: ##
 ![alt text](https://www.cakengifts.in/product-images/bfcr001-black-forest-cake-in-round/regular/black-forest-cake-in-round.jpg "CAKE")
+![alt text](https://houseandhome.com/wp-content/uploads/small-christmas-tree-ideas-bhg.jpg)
+![alt text](http://janicelukes.ca/wp-content/uploads/2017/11/Skate-With-Santa-20121116-small.jpg)
+![alt text](https://www.bikeinflorence.com/wp-content/uploads/2015/12/albero-di-natale-caminetto.jpeg)
 
+## TEST AND OUTPUT ##
+![alt text](https://www.lds.org/bc/content/ldsorg/content/images/2011mtc-christmas-480x270-CWD_100705_KMIller_TempleSquareLights_04_038.jpg)
+
+## OUTPUT : CHRISTMAS IMAGE ##
+
+## ACCURACY OF THE MODEL: 72.2% ## 
 
 
