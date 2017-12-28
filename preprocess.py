@@ -7,9 +7,6 @@ import imageagument
 global tk
 tk=tf.contrib.keras.preprocessing
 
-
-
-
 def _int64_feature(value):
 	return tf.train.Feature(int64_list=tf.train.Int64List(value=[value]))
 
@@ -58,24 +55,3 @@ for file in files:
 			example=tf.train.Example(features=tf.train.Features(feature=feature))
 			writer.write(example.SerializeToString())
 writer.close()
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
