@@ -39,9 +39,9 @@ def image_preprocess(image_path,label_name):
 
 
 
-path='/home/robinreni/Documents/pythonprojects/cnn/christams/christams_images'
+path="""Directory path to the image set""" 
 files=os.listdir(path)
-tfrecord_filename='christmas1_temp.tfrecords'
+tfrecord_filename='christmas.tfrecords'
 writer=tf.python_io.TFRecordWriter(tfrecord_filename)
 for file in files:
 	temp_path=path+'/'+file
