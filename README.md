@@ -17,7 +17,7 @@ https://mega.nz/#F!SxAHXRTZ!rnbP8APGdCqponSbg5C-pQ
 
 # SAMPLE WORK #
 ## TRAINING IMAGES: ##
-![alt text](https://www.cakengifts.in/product-images/bfcr001-black-forest-cake-in-round/regular/black-forest-cake-in-round.jpg)
+![alt text](https://www.cakengifts.in/product-images/bfcr001-black-forest-cake-in-round/regular/black-forest-cake-in-round.jpg "CAKE")
 
 
 
