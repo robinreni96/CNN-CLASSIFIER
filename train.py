@@ -167,7 +167,7 @@ def main(_):
 
 
 if __name__ == '__main__':
-    datapath='/home/robinreni/Documents/pythonprojects/cnn/christams/christmas.tfrecords'
+    datapath="""PATH TO THE TFRECORD"""
 
     parser = argparse.ArgumentParser()
     parser.add_argument('--learning_rate', type=float, default=0.001, help='Initial learning rate')
